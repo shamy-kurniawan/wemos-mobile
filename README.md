@@ -1,1 +1,2 @@
-# wemos-mobile
+# wemos-mobile 
+Arduino IRC Client & WebServer
